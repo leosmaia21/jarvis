@@ -1,19 +1,27 @@
 {
 	"nodes":[
-		{"id":"78e3f85cf993a5d7","type":"text","text":"Tech","x":-420,"y":-1100,"width":250,"height":60,"color":"1"},
-		{"id":"8702dbb326071a9b","type":"text","text":"CPU","x":-720,"y":-880,"width":80,"height":50},
-		{"id":"ad34fa12f47d6c30","type":"file","file":"tech/cpu/Intel.md","x":-1373,"y":-503,"width":400,"height":400},
-		{"id":"f25a95dc39beb723","type":"file","file":"tech/cpu/AMD.md","x":-868,"y":-503,"width":400,"height":400},
-		{"id":"6917d39fa92f63b1","x":-495,"y":300,"width":400,"height":400,"type":"file","file":"tech/memory/Micron.md"},
-		{"id":"c3aa7c807886735e","x":49,"y":300,"width":400,"height":400,"type":"file","file":"tech/memory/SK Hynix.md"},
-		{"id":"1728a928fe93549b","x":565,"y":300,"width":400,"height":400,"type":"file","file":"tech/memory/Samsung.md"},
-		{"id":"c205e1b128b2b073","x":124,"y":-40,"width":250,"height":60,"type":"text","text":"Memory"},
-		{"id":"8cd5d86abf3caf4f","x":1560,"y":-940,"width":250,"height":60,"type":"text","text":"Data Centers"},
-		{"id":"0793208cb0f20a8d","x":1160,"y":-563,"width":250,"height":60,"type":"text","text":"Colling Systems"},
-		{"id":"50335e11964cedf7","x":1085,"y":-360,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Vertiv.md"},
-		{"id":"b0462711fe15a079","x":2320,"y":-680,"width":250,"height":60,"type":"text","text":"Infrastructure"},
-		{"id":"d20cddd30d40ff94","x":2000,"y":-360,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Nebius.md"},
-		{"id":"1f2a30d014da8071","x":2480,"y":-360,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Iren.md"}
+		{"id":"8cd5d86abf3caf4f","type":"text","text":"Data Centers","x":1560,"y":-940,"width":250,"height":60},
+		{"id":"50335e11964cedf7","type":"file","file":"tech/Data Centers/Vertiv.md","x":280,"y":-417,"width":400,"height":400},
+		{"id":"0793208cb0f20a8d","type":"text","text":"Colling Systems","x":355,"y":-620,"width":250,"height":60},
+		{"id":"d20cddd30d40ff94","type":"file","file":"tech/Data Centers/Nebius.md","x":2360,"y":-560,"width":400,"height":400},
+		{"id":"b0462711fe15a079","type":"text","text":"Infrastructure","x":2680,"y":-880,"width":250,"height":60},
+		{"id":"1f2a30d014da8071","type":"file","file":"tech/Data Centers/Iren.md","x":2840,"y":-560,"width":400,"height":400},
+		{"id":"d27338cc8c02ff60","type":"text","text":"Photonics","x":1435,"y":-560,"width":250,"height":60},
+		{"id":"b8e06a08e56fcfab","type":"file","file":"tech/Data Centers/Photonics/Applied optoeletronics.md","x":960,"y":70,"width":400,"height":400},
+		{"id":"287045904073b097","type":"file","file":"tech/Data Centers/Photonics/Lumentum.md","x":1410,"y":70,"width":400,"height":400},
+		{"id":"d602fd7e82c96c76","type":"file","file":"tech/Data Centers/Photonics/AXT.md","x":1880,"y":70,"width":400,"height":400},
+		{"id":"c205e1b128b2b073","type":"text","text":"Memory","x":-170,"y":410,"width":250,"height":60},
+		{"id":"6917d39fa92f63b1","type":"file","file":"tech/memory/Micron.md","x":-789,"y":750,"width":400,"height":400},
+		{"id":"c3aa7c807886735e","type":"file","file":"tech/memory/SK Hynix.md","x":-245,"y":750,"width":400,"height":400},
+		{"id":"1728a928fe93549b","type":"file","file":"tech/memory/Samsung.md","x":271,"y":750,"width":400,"height":400},
+		{"id":"ad34fa12f47d6c30","type":"file","file":"tech/cpu/Intel.md","x":-1560,"y":-182,"width":400,"height":400},
+		{"id":"8702dbb326071a9b","type":"text","text":"CPU","x":-1135,"y":-442,"width":80,"height":50},
+		{"id":"f25a95dc39beb723","type":"file","file":"tech/cpu/AMD.md","x":-1055,"y":-182,"width":400,"height":400},
+		{"id":"78e3f85cf993a5d7","type":"text","text":"Tech","x":-45,"y":-1400,"width":250,"height":60,"color":"1"},
+		{"id":"a7cd8777b28c1dac","type":"text","text":"Foundries","x":-1220,"y":-1720,"width":250,"height":60},
+		{"id":"c794b43c044f4948","type":"file","file":"tech/Foundries/GF.md","x":-2360,"y":-2090,"width":400,"height":400},
+		{"id":"b0944905032425dd","type":"file","file":"tech/Foundries/Tsmc.md","x":-2360,"y":-1660,"width":400,"height":400},
+		{"id":"c39eac66f1f695bb","x":-2360,"y":-1220,"width":400,"height":400,"type":"file","file":"tech/Foundries/Tsem.md"}
 	],
 	"edges":[
 		{"id":"d50797f3e3b60687","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"8702dbb326071a9b","toSide":"top"},
@@ -28,6 +36,14 @@
 		{"id":"1b4ff23e7102e980","fromNode":"0793208cb0f20a8d","fromSide":"bottom","toNode":"50335e11964cedf7","toSide":"top"},
 		{"id":"df746a4a44c2bed8","fromNode":"8cd5d86abf3caf4f","fromSide":"bottom","toNode":"b0462711fe15a079","toSide":"top"},
 		{"id":"8d5e084d9d979e3f","fromNode":"b0462711fe15a079","fromSide":"bottom","toNode":"d20cddd30d40ff94","toSide":"top"},
-		{"id":"2ef22e900d6f1c7f","fromNode":"b0462711fe15a079","fromSide":"bottom","toNode":"1f2a30d014da8071","toSide":"top"}
+		{"id":"2ef22e900d6f1c7f","fromNode":"b0462711fe15a079","fromSide":"bottom","toNode":"1f2a30d014da8071","toSide":"top"},
+		{"id":"8151d53d7ba9d6c6","fromNode":"8cd5d86abf3caf4f","fromSide":"bottom","toNode":"d27338cc8c02ff60","toSide":"top"},
+		{"id":"cf2684c69c1df89b","fromNode":"d27338cc8c02ff60","fromSide":"bottom","toNode":"b8e06a08e56fcfab","toSide":"top"},
+		{"id":"319583d6f6d1f6d2","fromNode":"d27338cc8c02ff60","fromSide":"bottom","toNode":"287045904073b097","toSide":"top"},
+		{"id":"0067dd5ae4484d2c","fromNode":"d27338cc8c02ff60","fromSide":"bottom","toNode":"d602fd7e82c96c76","toSide":"top"},
+		{"id":"f3ce4124b1cfd4e4","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"a7cd8777b28c1dac","toSide":"right"},
+		{"id":"b846abd7dee1f984","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"c794b43c044f4948","toSide":"right"},
+		{"id":"09030096ed553dea","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"b0944905032425dd","toSide":"right"},
+		{"id":"04a381e3d5c33ccb","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"c39eac66f1f695bb","toSide":"right"}
 	]
 }

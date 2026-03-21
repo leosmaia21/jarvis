@@ -15,9 +15,9 @@
               "state": {
                 "file": "Flow.canvas",
                 "viewState": {
-                  "x": 1203.672914922629,
-                  "y": -242.46231903394914,
-                  "zoom": -1.5
+                  "x": 610.3413723295295,
+                  "y": 28.337467395650435,
+                  "zoom": -1.683327630564133
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,8 +199,18 @@
   },
   "active": "5b91bb8b3e09e121",
   "lastOpenFiles": [
-    "Jarvis.md",
+    "tech/Foundries/Tsem.md",
     "Flow.canvas",
+    "tech/Foundries/GF.md",
+    "tech/Foundries/Tsmc.md",
+    "tech/Foundries",
+    "tech/Untitled.md",
+    "tech/Data Centers/Photonics/Applied optoeletronics.md",
+    "tech/Data Centers/Photonics/Lumentum.md",
+    "tech/Data Centers/Photonics/AXT.md",
+    "tech/Data Centers/Cooling systems.md",
+    "tech/Data Centers/Photonics/Photonics.md",
+    "Jarvis.md",
     "tech/cpu/Intel.md",
     "tech/Data Centers/Nebius.md",
     "tech/memory/Memory.md",
@@ -218,20 +228,13 @@
     "tech/gpu/GPU.md",
     "tech/Data Centers/Infrastructure.md",
     "tech/Data Centers/DataCenters.md",
-    "tech/Data Centers/Cooling systems.md",
-    "tech/Data Centers/Photonics/Photonics.md",
     "tech/Data Centers/Photonics",
     "tech/Data Centers",
     "cpu.md",
-    "tech/cpu.md",
     "tech/gpu",
     "tech/memory",
     "tech/cpu",
     "tech",
-    "Intel.md",
-    "Bem-vindo.md",
-    "crie uma ligação.md",
-    "Sem título.canvas",
-    "2026-03-21.md"
+    "Sem título.canvas"
   ]
 }
