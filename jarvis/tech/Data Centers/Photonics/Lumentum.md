@@ -18,6 +18,4 @@ Lumentum designs and manufactures active photonics components and subsystems use
 
 ## Role in the photonics supply chain
 Lumentum is primarily a midstream component supplier: it takes wafers or substrates (often from upstream substrate suppliers and foundries), manufactures lasers and PICs, packages them, and supplies those active components to module assemblers and OEMs.
-<!-- Interaction details moved to `interactions.md`. See that file for supply-chain flow and interaction handoffs. -->
-
-<!-- Additional company notes and links can be added here -->
+ 

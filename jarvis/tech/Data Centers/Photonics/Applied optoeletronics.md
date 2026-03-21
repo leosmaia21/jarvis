@@ -16,6 +16,4 @@ Applied Optoelectronics designs and manufactures fiber-optic transceivers, break
 
 ## Role in the photonics supply chain
 Applied is a downstream module manufacturer and integrator. They typically source active components (lasers, photodiodes, modulators) and sometimes subassemblies from component suppliers (like Lumentum), plus substrates/epitaxy indirectly from upstream suppliers (like AXT). Applied focuses on high-volume mechanical assembly, optical alignment, testing, and qualification for end customers.
-<!-- Interaction details moved to `interactions.md`. See that file for supply-chain flow and interaction handoffs. -->
-
-<!-- Add manufacturing footprint, qualification notes, or contract highlights here -->
+ 

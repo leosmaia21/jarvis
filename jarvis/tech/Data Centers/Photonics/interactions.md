@@ -59,4 +59,4 @@ AXT (substrates) -> epitaxy / wafer processing -> Lumentum (device fabrication, 
 
 AXT provides the raw material (substrates), Lumentum converts that into precise active photonic components, and Applied integrates those components into finished optical modules for hyperscalers and carriers — the three work as a sequential chain with multiple co-design and qualification handoffs.
 
-<!-- End of interactions note -->
+ 

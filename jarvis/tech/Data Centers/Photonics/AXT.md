@@ -16,6 +16,4 @@ AXT is primarily an upstream materials supplier that manufactures and supplies s
 
 ## Role in the photonics supply chain
 AXT sits upstream as a materials supplier. They provide the physical substrate that is used by epitaxy houses and device manufacturers. Without reliable, high-quality substrates from companies like AXT, downstream component makers cannot produce lasers, modulators, or PICs at scale.
-<!-- Interaction details moved to `interactions.md`. See that file for supply-chain flow and interaction handoffs. -->
-
-<!-- Additional company notes and supplier contacts can be added here -->
+ 
