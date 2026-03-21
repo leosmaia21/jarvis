@@ -1,6 +1,0 @@
-
-[[Cooling systems]]
-
-[[Infrastructure]]
-
-[[Photonics]]

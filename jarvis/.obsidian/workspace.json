@@ -15,9 +15,9 @@
               "state": {
                 "file": "Flow.canvas",
                 "viewState": {
-                  "x": 610.3413723295295,
-                  "y": 28.337467395650435,
-                  "zoom": -1.683327630564133
+                  "x": 375.49995066109307,
+                  "y": 94.3820951493326,
+                  "zoom": -1.0166609638974664
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,10 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b91bb8b3e09e121",
+  "active": "78bac9dbec3c7069",
   "lastOpenFiles": [
-    "tech/Foundries/Tsem.md",
+    "tech/memory/Memory.md",
+    "tech/gpu/GPU.md",
+    "tech/Data Centers/Cooling systems.md",
+    "tech/Data Centers/Infrastructure.md",
+    "tech/Data Centers/DataCenters.md",
     "Flow.canvas",
+    "tech/Foundries/Tsem.md",
     "tech/Foundries/GF.md",
     "tech/Foundries/Tsmc.md",
     "tech/Foundries",
@@ -208,12 +213,10 @@
     "tech/Data Centers/Photonics/Applied optoeletronics.md",
     "tech/Data Centers/Photonics/Lumentum.md",
     "tech/Data Centers/Photonics/AXT.md",
-    "tech/Data Centers/Cooling systems.md",
     "tech/Data Centers/Photonics/Photonics.md",
     "Jarvis.md",
     "tech/cpu/Intel.md",
     "tech/Data Centers/Nebius.md",
-    "tech/memory/Memory.md",
     "Untitled.base",
     "tech/memory/SK Hynix.md",
     "Sem título 1.base",
@@ -225,9 +228,6 @@
     "tech/cpu/CPU.md",
     "tech/cpu/AMD.md",
     "Sem título.base",
-    "tech/gpu/GPU.md",
-    "tech/Data Centers/Infrastructure.md",
-    "tech/Data Centers/DataCenters.md",
     "tech/Data Centers/Photonics",
     "tech/Data Centers",
     "cpu.md",
