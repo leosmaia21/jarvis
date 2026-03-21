@@ -14,15 +14,18 @@
 		{"id":"6917d39fa92f63b1","type":"file","file":"tech/memory/Micron.md","x":-789,"y":750,"width":400,"height":400},
 		{"id":"c3aa7c807886735e","type":"file","file":"tech/memory/SK Hynix.md","x":-245,"y":750,"width":400,"height":400},
 		{"id":"1728a928fe93549b","type":"file","file":"tech/memory/Samsung.md","x":271,"y":750,"width":400,"height":400},
-		{"id":"ad34fa12f47d6c30","type":"file","file":"tech/cpu/Intel.md","x":-1560,"y":-182,"width":400,"height":400},
-		{"id":"8702dbb326071a9b","type":"text","text":"CPU","x":-1135,"y":-442,"width":80,"height":50},
-		{"id":"f25a95dc39beb723","type":"file","file":"tech/cpu/AMD.md","x":-1055,"y":-182,"width":400,"height":400},
 		{"id":"78e3f85cf993a5d7","type":"text","text":"Tech","x":-45,"y":-1400,"width":250,"height":60,"color":"1"},
 		{"id":"a7cd8777b28c1dac","type":"text","text":"Foundries","x":-1220,"y":-1720,"width":250,"height":60},
 		{"id":"c794b43c044f4948","type":"file","file":"tech/Foundries/GF.md","x":-2360,"y":-2090,"width":400,"height":400},
 		{"id":"b0944905032425dd","type":"file","file":"tech/Foundries/Tsmc.md","x":-2360,"y":-1660,"width":400,"height":400},
 		{"id":"c39eac66f1f695bb","type":"file","file":"tech/Foundries/Tsem.md","x":-2360,"y":-1220,"width":400,"height":400},
-		{"id":"3cb1fa8d0675d357","x":1435,"y":750,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Photonics/interactions.md"}
+		{"id":"3cb1fa8d0675d357","type":"file","file":"tech/Data Centers/Photonics/interactions.md","x":1435,"y":750,"width":400,"height":400},
+		{"id":"ad34fa12f47d6c30","type":"file","file":"tech/cpu/Intel.md","x":-2000,"y":-417,"width":400,"height":400},
+		{"id":"8702dbb326071a9b","type":"text","text":"CPU","x":-1575,"y":-677,"width":80,"height":50},
+		{"id":"f25a95dc39beb723","type":"file","file":"tech/cpu/AMD.md","x":-1495,"y":-417,"width":400,"height":400},
+		{"id":"ebb704084b354776","x":-1960,"y":1040,"width":400,"height":400,"type":"file","file":"tech/memory/Western Digital.md"},
+		{"id":"6a91b14f7c999998","x":-1535,"y":1040,"width":400,"height":400,"type":"file","file":"tech/memory/Sandisk.md"},
+		{"id":"ae3dddb1df0447e1","x":-2400,"y":1040,"width":400,"height":400,"type":"file","file":"tech/memory/Seagate.md"}
 	],
 	"edges":[
 		{"id":"d50797f3e3b60687","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"8702dbb326071a9b","toSide":"top"},
@@ -48,6 +51,9 @@
 		{"id":"04a381e3d5c33ccb","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"c39eac66f1f695bb","toSide":"right"},
 		{"id":"5b9a6129bd34abfc","fromNode":"b8e06a08e56fcfab","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"},
 		{"id":"d0da4daf83ab7a4a","fromNode":"287045904073b097","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"},
-		{"id":"ffcd6e151e7d0d6b","fromNode":"d602fd7e82c96c76","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"}
+		{"id":"ffcd6e151e7d0d6b","fromNode":"d602fd7e82c96c76","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"},
+		{"id":"707e3f3b3584c0e6","fromNode":"c205e1b128b2b073","fromSide":"bottom","toNode":"ae3dddb1df0447e1","toSide":"top"},
+		{"id":"965933198366eb82","fromNode":"c205e1b128b2b073","fromSide":"bottom","toNode":"ebb704084b354776","toSide":"top"},
+		{"id":"38f4556ae0c9945f","fromNode":"c205e1b128b2b073","fromSide":"bottom","toNode":"6a91b14f7c999998","toSide":"top"}
 	]
 }

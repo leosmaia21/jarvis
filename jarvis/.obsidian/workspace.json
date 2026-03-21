@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5164d98dfabde556",
+        "id": "2fe77755682b8051",
         "type": "tabs",
         "children": [
           {
-            "id": "5b91bb8b3e09e121",
+            "id": "d0504a1b73d64fa3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "jarvis/tech/Data Centers/Nebius.md",
-                "bFile": "jarvis/tech/Data Centers/Nebius.md",
-                "aRef": ""
+                "file": "Flow.canvas",
+                "viewState": {
+                  "x": 316.63816608803745,
+                  "y": -180.25915139208286,
+                  "zoom": -1.683327630564133
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Nebius  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Flow"
             }
           }
         ]
@@ -74,8 +77,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b91bb8b3e09e121",
+  "active": "d0504a1b73d64fa3",
   "lastOpenFiles": [
+    "tech/memory/Western Digital.md",
+    "tech/memory/Seagate.md",
+    "tech/memory/Sandisk.md",
     "Flow.canvas",
     "tech/Data Centers/Iren.md",
     "tech/Data Centers/Nebius.md",
@@ -231,8 +236,6 @@
     "tech/cpu/Intel.md",
     "tech/memory/SK Hynix.md",
     "tech/memory/Samsung.md",
-    "tech/memory/Micron.md",
-    "tech/cpu/CPU.md",
     "Sem título.canvas"
   ]
 }
