@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3b80c52d99ee1dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5164d98dfabde556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b91bb8b3e09e121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/memory/Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc69effc9be795ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "21b2641501dc4844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab47da7ada0fe11a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9961c9ffd72d86e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"cssclasses\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1be10798ef67d7a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a54e7e81ec31f733",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a4c9c3ee6ac686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34434fa05700add2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tech/memory/SK Hynix.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para SK Hynix"
+            }
+          },
+          {
+            "id": "4cb94d76520f0d95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tech/memory/Memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Memory"
+            }
+          },
+          {
+            "id": "ba44010517a0d628",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "69583c8f0348c413",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "52f3a861ed4c6b8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tech/memory/SK Hynix.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de SK Hynix"
+            }
+          },
+          {
+            "id": "78bac9dbec3c7069",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5b91bb8b3e09e121",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "tech/memory/SK Hynix.md",
+    "Sem título 1.base",
+    "tech/memory/Samsung.md",
+    "tech/memory/Micron.md",
+    "tech/Tech.md",
+    "tech/Data Centers/Vertiv.md",
+    "tech/Data Centers/Nebius.md",
+    "tech/Data Centers/Iren.md",
+    "tech/cpu/Intel.md",
+    "tech/cpu/CPU.md",
+    "tech/cpu/AMD.md",
+    "Sem título.base",
+    "tech/gpu/GPU.md",
+    "Jarvis.md",
+    "tech/Data Centers/Infrastructure.md",
+    "tech/Data Centers/DataCenters.md",
+    "tech/Data Centers/Cooling systems.md",
+    "tech/Data Centers/Photonics/Photonics.md",
+    "tech/Data Centers/Photonics",
+    "tech/memory/Memory.md",
+    "tech/Data Centers",
+    "cpu.md",
+    "tech/cpu.md",
+    "tech/gpu",
+    "tech/memory",
+    "tech/cpu",
+    "tech",
+    "Intel.md",
+    "Bem-vindo.md",
+    "crie uma ligação.md",
+    "Sem título.canvas",
+    "2026-03-21.md"
+  ]
+}
