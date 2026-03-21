@@ -11,56 +11,17 @@
             "id": "5b91bb8b3e09e121",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "jarvis/.obsidian/workspace.json",
-                "bFile": "jarvis/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3ad16d812d7ff116",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa4e8d62924d886e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.33776041666667,
-                  "lineSizeMultiplier": 0.852864583333333,
-                  "collapse-forces": false,
-                  "centerStrength": 0.419270833333333,
-                  "repelStrength": 0,
-                  "linkStrength": 0.700520833333333,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224419,
-                  "close": true
+                "file": "Flow.canvas",
+                "viewState": {
+                  "x": 1203.672914922629,
+                  "y": -242.46231903394914,
+                  "zoom": -1.5
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-layout-dashboard",
+              "title": "Flow"
             }
           }
         ]
@@ -95,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "tag:#company",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +64,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -238,6 +199,9 @@
   },
   "active": "5b91bb8b3e09e121",
   "lastOpenFiles": [
+    "Jarvis.md",
+    "Flow.canvas",
+    "tech/cpu/Intel.md",
     "tech/Data Centers/Nebius.md",
     "tech/memory/Memory.md",
     "Untitled.base",
@@ -248,12 +212,10 @@
     "tech/Tech.md",
     "tech/Data Centers/Vertiv.md",
     "tech/Data Centers/Iren.md",
-    "tech/cpu/Intel.md",
     "tech/cpu/CPU.md",
     "tech/cpu/AMD.md",
     "Sem título.base",
     "tech/gpu/GPU.md",
-    "Jarvis.md",
     "tech/Data Centers/Infrastructure.md",
     "tech/Data Centers/DataCenters.md",
     "tech/Data Centers/Cooling systems.md",

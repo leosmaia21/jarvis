@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"78e3f85cf993a5d7","type":"text","text":"Tech","x":-420,"y":-1100,"width":250,"height":60,"color":"1"},
+		{"id":"8702dbb326071a9b","type":"text","text":"CPU","x":-720,"y":-880,"width":80,"height":50},
+		{"id":"ad34fa12f47d6c30","type":"file","file":"tech/cpu/Intel.md","x":-1373,"y":-503,"width":400,"height":400},
+		{"id":"f25a95dc39beb723","type":"file","file":"tech/cpu/AMD.md","x":-868,"y":-503,"width":400,"height":400},
+		{"id":"6917d39fa92f63b1","x":-495,"y":300,"width":400,"height":400,"type":"file","file":"tech/memory/Micron.md"},
+		{"id":"c3aa7c807886735e","x":49,"y":300,"width":400,"height":400,"type":"file","file":"tech/memory/SK Hynix.md"},
+		{"id":"1728a928fe93549b","x":565,"y":300,"width":400,"height":400,"type":"file","file":"tech/memory/Samsung.md"},
+		{"id":"c205e1b128b2b073","x":124,"y":-40,"width":250,"height":60,"type":"text","text":"Memory"},
+		{"id":"8cd5d86abf3caf4f","x":1560,"y":-940,"width":250,"height":60,"type":"text","text":"Data Centers"},
+		{"id":"0793208cb0f20a8d","x":1160,"y":-563,"width":250,"height":60,"type":"text","text":"Colling Systems"},
+		{"id":"50335e11964cedf7","x":1085,"y":-360,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Vertiv.md"},
+		{"id":"b0462711fe15a079","x":2320,"y":-680,"width":250,"height":60,"type":"text","text":"Infrastructure"},
+		{"id":"d20cddd30d40ff94","x":2000,"y":-360,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Nebius.md"},
+		{"id":"1f2a30d014da8071","x":2480,"y":-360,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Iren.md"}
+	],
+	"edges":[
+		{"id":"d50797f3e3b60687","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"8702dbb326071a9b","toSide":"top"},
+		{"id":"44599008f0cb99d5","fromNode":"8702dbb326071a9b","fromSide":"bottom","toNode":"ad34fa12f47d6c30","toSide":"top"},
+		{"id":"ff9b2b43b91d6b54","fromNode":"8702dbb326071a9b","fromSide":"bottom","toNode":"f25a95dc39beb723","toSide":"top"},
+		{"id":"0c1dfaf93cf8ed5d","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"c205e1b128b2b073","toSide":"top"},
+		{"id":"6d2f49a7b08f87e6","fromNode":"c205e1b128b2b073","fromSide":"bottom","toNode":"6917d39fa92f63b1","toSide":"top"},
+		{"id":"66aa2282a1a70ca7","fromNode":"c205e1b128b2b073","fromSide":"bottom","toNode":"c3aa7c807886735e","toSide":"top"},
+		{"id":"5d60056539e54bbd","fromNode":"c205e1b128b2b073","fromSide":"bottom","toNode":"1728a928fe93549b","toSide":"top"},
+		{"id":"2c6b20fcc68af3ad","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"8cd5d86abf3caf4f","toSide":"top"},
+		{"id":"b55d76b312de9e02","fromNode":"8cd5d86abf3caf4f","fromSide":"bottom","toNode":"0793208cb0f20a8d","toSide":"top"},
+		{"id":"1b4ff23e7102e980","fromNode":"0793208cb0f20a8d","fromSide":"bottom","toNode":"50335e11964cedf7","toSide":"top"},
+		{"id":"df746a4a44c2bed8","fromNode":"8cd5d86abf3caf4f","fromSide":"bottom","toNode":"b0462711fe15a079","toSide":"top"},
+		{"id":"8d5e084d9d979e3f","fromNode":"b0462711fe15a079","fromSide":"bottom","toNode":"d20cddd30d40ff94","toSide":"top"},
+		{"id":"2ef22e900d6f1c7f","fromNode":"b0462711fe15a079","fromSide":"bottom","toNode":"1f2a30d014da8071","toSide":"top"}
+	]
+}
