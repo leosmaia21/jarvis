@@ -15,9 +15,9 @@
               "state": {
                 "file": "Flow.canvas",
                 "viewState": {
-                  "x": 375.49995066109307,
-                  "y": 94.3820951493326,
-                  "zoom": -1.0166609638974664
+                  "x": 197.07678386305008,
+                  "y": 588.5318833014344,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#company",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,18 +198,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78bac9dbec3c7069",
+  "active": "5b91bb8b3e09e121",
   "lastOpenFiles": [
+    "tech/Data Centers/Photonics/interactions.md",
+    "tech/Data Centers/Vertiv.md",
+    "Flow.canvas",
+    "tech/backups/Applied optoeletronics.md.bak",
+    "tech/backups/Vertiv.md.bak",
+    "tech/backups/Nebius.md.bak",
+    "tech/backups/Iren.md.bak",
+    "tech/backups/SK Hynix.md.bak",
+    "tech/backups/Samsung.md.bak",
+    "tech/backups/Micron.md.bak",
+    "tech/backups/GF.md.bak",
+    "tech/backups/Tsem.md.bak",
+    "tech/backups/Tsmc.md.bak",
+    "tech/cpu/AMD.md",
+    "tech/Tech.md",
     "tech/memory/Memory.md",
     "tech/gpu/GPU.md",
     "tech/Data Centers/Cooling systems.md",
     "tech/Data Centers/Infrastructure.md",
     "tech/Data Centers/DataCenters.md",
-    "Flow.canvas",
     "tech/Foundries/Tsem.md",
     "tech/Foundries/GF.md",
     "tech/Foundries/Tsmc.md",
-    "tech/Foundries",
     "tech/Untitled.md",
     "tech/Data Centers/Photonics/Applied optoeletronics.md",
     "tech/Data Centers/Photonics/Lumentum.md",
@@ -217,24 +231,12 @@
     "Jarvis.md",
     "tech/cpu/Intel.md",
     "tech/Data Centers/Nebius.md",
-    "Untitled.base",
     "tech/memory/SK Hynix.md",
-    "Sem título 1.base",
     "tech/memory/Samsung.md",
     "tech/memory/Micron.md",
-    "tech/Tech.md",
-    "tech/Data Centers/Vertiv.md",
     "tech/Data Centers/Iren.md",
     "tech/cpu/CPU.md",
-    "tech/cpu/AMD.md",
-    "Sem título.base",
-    "tech/Data Centers/Photonics",
-    "tech/Data Centers",
     "cpu.md",
-    "tech/gpu",
-    "tech/memory",
-    "tech/cpu",
-    "tech",
     "Sem título.canvas"
   ]
 }

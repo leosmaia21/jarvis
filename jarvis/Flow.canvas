@@ -21,7 +21,8 @@
 		{"id":"a7cd8777b28c1dac","type":"text","text":"Foundries","x":-1220,"y":-1720,"width":250,"height":60},
 		{"id":"c794b43c044f4948","type":"file","file":"tech/Foundries/GF.md","x":-2360,"y":-2090,"width":400,"height":400},
 		{"id":"b0944905032425dd","type":"file","file":"tech/Foundries/Tsmc.md","x":-2360,"y":-1660,"width":400,"height":400},
-		{"id":"c39eac66f1f695bb","x":-2360,"y":-1220,"width":400,"height":400,"type":"file","file":"tech/Foundries/Tsem.md"}
+		{"id":"c39eac66f1f695bb","type":"file","file":"tech/Foundries/Tsem.md","x":-2360,"y":-1220,"width":400,"height":400},
+		{"id":"3cb1fa8d0675d357","x":1435,"y":750,"width":400,"height":400,"type":"file","file":"tech/Data Centers/Photonics/interactions.md"}
 	],
 	"edges":[
 		{"id":"d50797f3e3b60687","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"8702dbb326071a9b","toSide":"top"},
@@ -44,6 +45,9 @@
 		{"id":"f3ce4124b1cfd4e4","fromNode":"78e3f85cf993a5d7","fromSide":"bottom","toNode":"a7cd8777b28c1dac","toSide":"right"},
 		{"id":"b846abd7dee1f984","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"c794b43c044f4948","toSide":"right"},
 		{"id":"09030096ed553dea","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"b0944905032425dd","toSide":"right"},
-		{"id":"04a381e3d5c33ccb","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"c39eac66f1f695bb","toSide":"right"}
+		{"id":"04a381e3d5c33ccb","fromNode":"a7cd8777b28c1dac","fromSide":"left","toNode":"c39eac66f1f695bb","toSide":"right"},
+		{"id":"5b9a6129bd34abfc","fromNode":"b8e06a08e56fcfab","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"},
+		{"id":"d0da4daf83ab7a4a","fromNode":"287045904073b097","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"},
+		{"id":"ffcd6e151e7d0d6b","fromNode":"d602fd7e82c96c76","fromSide":"bottom","toNode":"3cb1fa8d0675d357","toSide":"top"}
 	]
 }
