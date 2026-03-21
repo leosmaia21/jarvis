@@ -11,17 +11,14 @@
             "id": "5b91bb8b3e09e121",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Flow.canvas",
-                "viewState": {
-                  "x": 877.9355113529946,
-                  "y": 181.6536984478133,
-                  "zoom": -0.3333333333333332
-                }
+                "aFile": "jarvis/tech/Data Centers/Nebius.md",
+                "bFile": "jarvis/tech/Data Centers/Nebius.md",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Flow"
+              "icon": "diff",
+              "title": "Diff: Nebius  (Working Tree)"
             }
           }
         ]
@@ -200,9 +197,11 @@
   },
   "active": "5b91bb8b3e09e121",
   "lastOpenFiles": [
+    "Flow.canvas",
+    "tech/Data Centers/Iren.md",
+    "tech/Data Centers/Nebius.md",
     "tech/Data Centers/Photonics/interactions.md",
     "tech/Data Centers/Vertiv.md",
-    "Flow.canvas",
     "tech/backups/Applied optoeletronics.md.bak",
     "tech/backups/Vertiv.md.bak",
     "tech/backups/Nebius.md.bak",
@@ -230,13 +229,10 @@
     "tech/Data Centers/Photonics/Photonics.md",
     "Jarvis.md",
     "tech/cpu/Intel.md",
-    "tech/Data Centers/Nebius.md",
     "tech/memory/SK Hynix.md",
     "tech/memory/Samsung.md",
     "tech/memory/Micron.md",
-    "tech/Data Centers/Iren.md",
     "tech/cpu/CPU.md",
-    "cpu.md",
     "Sem título.canvas"
   ]
 }
