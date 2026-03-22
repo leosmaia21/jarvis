@@ -1,3 +1,5 @@
+**Capyfin:** https://capyfin.com/s/nasdaq/LITE
+
 ## Summary
 Company note for Lumentum: overview of its photonics products (lasers, modulators, optical engines and subsystems), target markets (telecom, cloud/datacom, lidar/industrial), and role as a component supplier.
 

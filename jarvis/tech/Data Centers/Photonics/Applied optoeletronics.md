@@ -1,3 +1,5 @@
+**Capyfin:** https://capyfin.com/s/nasdaq/AOPC
+
 ## Summary
 Company note for Applied Optoelectronics (AOI): manufacturer of high-volume optical transceivers, modules, and fiber-optic products for data center and telecom interconnects.
 

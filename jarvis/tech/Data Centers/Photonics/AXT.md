@@ -1,3 +1,5 @@
+**Capyfin:** https://capyfin.com/s/nasdaq/AXTI
+
 ## Summary
 Company note for AXT: supplier of specialty semiconductor substrates and advanced materials (InP, GaAs, GaN, and others) used as the starting platform for lasers, PICs, and other opto-electronic devices.
 
