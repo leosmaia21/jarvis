@@ -1,7 +1,7 @@
-**Capyfin:** https://capyfin.com/s/nasdaq/AOPC
+**Capyfin:** https://capyfin.com/s/nasdaq/AAOI
 
 ## Summary
-Company note for Applied Optoelectronics (AOI): manufacturer of high-volume optical transceivers, modules, and fiber-optic products for data center and telecom interconnects.
+Applied Optoelectronics (AAOI): Q4 2025 revenue $134M (+145% YoY), EPS -$0.01, GAAP gross margin 31.2%, cash $216M. Market cap $6.58B, P/E -380.57.
 
 ## Overview
 Applied Optoelectronics designs and manufactures fiber-optic transceivers, breakout modules, active optical cables, and optical subsystems used in short-, medium-, and long-reach data center interconnects. Their specialization is high-volume module assembly, testing, and supply to cloud/hyperscale customers and telecom carriers.

@@ -2,7 +2,8 @@
 **Capyfin:** https://capyfin.com/s/nasdaq/SNDK
 
 ## Summary
-Company note for SanDisk: a leading brand in NAND flash-based storage products (removable media, embedded flash, and consumer SSDs). SanDisk's product portfolio targets consumer devices, mobile and embedded systems, and certain client storage markets; the brand and many product lines are now part of Western Digital.## Overview
+SanDisk (Western Digital brand): Q2 2026 revenue $3.03B, EPS $6.2, gross margin 50.9%, free cash flow $980M. Market cap $105B (as part of Western Digital), P/E 109.48.
+## Overview
 SanDisk originally built its reputation on removable flash memory (SD cards, USB drives) and later expanded into embedded eMMC/UFS and consumer SSDs. The brand is widely licensed and recognized for consumer storage reliability and portability. After corporate transactions, SanDisk operates as a key flash-storage brand within Western Digital's broader storage portfolio.
 
 ## History & ownership

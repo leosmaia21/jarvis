@@ -1,7 +1,7 @@
 **Capyfin:** https://capyfin.com/s/nasdaq/LITE
 
 ## Summary
-Company note for Lumentum: overview of its photonics products (lasers, modulators, optical engines and subsystems), target markets (telecom, cloud/datacom, lidar/industrial), and role as a component supplier.
+Lumentum: Q3 2026 revenue $666M (+65.5% YoY), EPS $1.67, gross margin 36.1%, operating margin 9.7%. Market cap $50.4B, P/E 167.22.
 
 ## Overview
 Lumentum designs and manufactures active photonics components and subsystems used in optical communications and sensing. Typical offerings include lasers (DFB, tunable), modulators, photonic integrated circuits (PICs), optical engines, and optical subsystems used by transceiver and module manufacturers as well as OEMs in telecom and data center markets. They also have product lines for lidar and industrial sensing.

@@ -11,17 +11,14 @@
             "id": "d0504a1b73d64fa3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Flow.canvas",
-                "viewState": {
-                  "x": 380.244660850312,
-                  "y": 150.77621262459917,
-                  "zoom": -1.3499942972307997
-                }
+                "file": "tech/memory/Western Digital.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Flow"
+              "icon": "lucide-file",
+              "title": "Western Digital"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/memory/SK Hynix.md",
+                "file": "tech/memory/Western Digital.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para SK Hynix"
+              "title": "Backlinks for Western Digital"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/memory/Memory.md",
+                "file": "tech/memory/Western Digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Memory"
+              "title": "Outgoing links from Western Digital"
             }
           },
           {
@@ -136,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -183,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,16 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0504a1b73d64fa3",
+  "active": "78bac9dbec3c7069",
   "lastOpenFiles": [
-    "tech/memory/Western Digital.md",
     "tech/memory/Seagate.md",
-    "tech/memory/Sandisk.md",
-    "Flow.canvas",
-    "tech/Data Centers/Iren.md",
-    "tech/Data Centers/Nebius.md",
-    "tech/Data Centers/Photonics/interactions.md",
+    "tech/memory/SK Hynix.md",
+    "tech/Data Centers/Photonics/Applied optoeletronics.md",
     "tech/Data Centers/Vertiv.md",
+    "tech/Data Centers/Nebius.md",
+    "tech/Data Centers/Iren.md",
+    "Flow.canvas",
+    "tech/Data Centers/Photonics/interactions.md",
+    "tech/Data Centers/Photonics/Marvell.md",
+    "tech/Data Centers/Photonics/Lumentum.md",
+    "tech/memory/Samsung.md",
+    "tech/memory/Micron.md",
+    "tech/Foundries/Tsem.md",
+    "tech/memory/Western Digital.md",
+    "tech/Data Centers/Photonics/AXT.md",
+    "tech/memory/Sandisk.md",
     "tech/backups/Applied optoeletronics.md.bak",
     "tech/backups/Vertiv.md.bak",
     "tech/backups/Nebius.md.bak",
@@ -224,18 +229,10 @@
     "tech/Data Centers/Cooling systems.md",
     "tech/Data Centers/Infrastructure.md",
     "tech/Data Centers/DataCenters.md",
-    "tech/Foundries/Tsem.md",
     "tech/Foundries/GF.md",
     "tech/Foundries/Tsmc.md",
     "tech/Untitled.md",
-    "tech/Data Centers/Photonics/Applied optoeletronics.md",
-    "tech/Data Centers/Photonics/Lumentum.md",
-    "tech/Data Centers/Photonics/AXT.md",
     "tech/Data Centers/Photonics/Photonics.md",
-    "Jarvis.md",
-    "tech/cpu/Intel.md",
-    "tech/memory/SK Hynix.md",
-    "tech/memory/Samsung.md",
     "Sem título.canvas"
   ]
 }

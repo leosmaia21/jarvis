@@ -1,7 +1,7 @@
 **Capyfin:** https://capyfin.com/s/nasdaq/AXTI
 
 ## Summary
-Company note for AXT: supplier of specialty semiconductor substrates and advanced materials (InP, GaAs, GaN, and others) used as the starting platform for lasers, PICs, and other opto-electronic devices.
+AXT: Financial data not available on Capyfin. Supplier of specialty semiconductor substrates and advanced materials (InP, GaAs, GaN, and others) used as the starting platform for lasers, PICs, and other opto-electronic devices.
 
 ## Overview
 AXT is primarily an upstream materials supplier that manufactures and supplies specialized semiconductor substrates and epi-ready wafers used by photonics and RF/power device manufacturers. These substrates are the raw material on which epitaxial layers are grown and active devices (lasers, photodetectors, modulators) are fabricated.
